@@ -1,5 +1,5 @@
 ---
-name: Humanizar escritura científica
+name: humanizar-escritura-científica
 description: Mejora textos académicos para que suenen naturales y humanos.
 ---
 
