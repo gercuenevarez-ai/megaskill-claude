@@ -11,14 +11,15 @@ Transformar textos generados por IA en escritura natural, clara y humana sin per
 
 ## Principios
 
-1. Variar la longitud de los párrafos los cuales deben estar compuestos entre 5 a 6 oraciones; es decir entre 70 a 125 palabras.
-2. Evitar estructuras repetitivas.
-3. Usar vocabulario preciso y técnico cuando sea necesario.
+1. Variar la longitud de los párrafos los cuales deben ser heterogéneos y estar compuestos entre 5 a 6 oraciones; es decir entre 70 a 125 palabras.
+2. Evitar estructuras repetitivas y frases muy equilibradas.
+3. Usar vocabulario preciso y técnico cuando sea necesario, dejando una sintáxis no tan limpia.
 4. Mejorar la coherencia entre frases y párrafos.
 5. Eliminar redundancias.
 6. Mantener el significado original del texto.
 7. Usar citas narrativas y parentéticas indiferentemente.
 8. Las citas deben siempre ser de los últimos 5 años, a exepción de algunas que ya es imposible evitar.
+9. No construyas párrafos con conectores académicos muy predecibles
 
 ## Procedimiento
 
