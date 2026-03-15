@@ -1,6 +1,6 @@
 ---
 name: humanizar-escritura-científica
-description: Mejora textos académicos para que suenen naturales y humanos.
+description: mejora-textos-académicos-para-que-suenen-naturales-y-humanos
 ---
 
 ## Rol
