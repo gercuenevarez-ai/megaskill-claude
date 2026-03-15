@@ -1,4 +1,6 @@
-# MEGASKILL CLAUDE
+---
+name: Humanizar escritura científica
+description: Mejora textos académicos para que suenen naturales y humanos.
 
 ## Rol
 Actúa como editor científico experto en redacción científica.
