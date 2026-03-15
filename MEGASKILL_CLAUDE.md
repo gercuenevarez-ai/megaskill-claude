@@ -1,6 +1,6 @@
 ---
-name: humanizar-escritura-científica
-description: mejora-textos-académicos-para-que-suenen-naturales-y-humanos
+name: humanizar-escritura-cientifica
+description: mejora-textos-academicos-para-que-suenen-naturales-y-humanos
 ---
 
 ## Rol
